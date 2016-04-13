@@ -1,7 +1,5 @@
 CSC220 Programming Project #2
 =============================
- 
-Due Date: 23:55pm, Sunday, 4/10/2016 
 
 - You need to implement LispExpressionEvaluator.java
 
