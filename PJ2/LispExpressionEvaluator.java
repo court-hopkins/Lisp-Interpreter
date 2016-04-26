@@ -2,8 +2,6 @@
  *
  *  		CSC220 Programming Project#2
  *  
- * Due Date: 23:55pm, Thursday, 11/6/2014  
- *           Upload SimpleLispExpressionEvaluator.java to ilearn 
  *
  * Specification: 
  *
@@ -52,20 +50,6 @@
  *   Thus, the following expressions are valid:
  *   	(+   (-6)3)
  *   	(/(+20 30))
- *
- * - Must use Java API Stack class in this project.
- *   Ref: http://docs.oracle.com/javase/7/docs/api/java/util/Stack.html
- * - Must throw LispException to indicate errors
- * - Must not add new or modify existing data fields
- * - Must implement these methods : 
- *
- *   	public SimpleLispExpressionEvaluator()
- *   	public SimpleLispExpressionEvaluator(String inputExpression) 
- *      public void reset(String inputExpression) 
- *      public double evaluate()
- *      private void evaluateCurrentOperation()
- *
- * - You may add new private methods
  *
  *************************************************************************************/
 
